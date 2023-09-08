@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jukim2&fontSize=70)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jukim2&fontSize=70) -->
 
  
+
+<img src = "https://github.com/Jukim2/Jukim2/assets/117924837/6e05f5d1-144b-4433-b28a-e4971390818b">
+
+
 
 <div align="center">
 
