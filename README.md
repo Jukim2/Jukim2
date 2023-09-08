@@ -11,7 +11,7 @@
 ### My Blog:
 
 <!-- [![website](./img/globe-light.svg)](https://Jukim2.github.io) -->
-<img align="left" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/black/white"/>
+[<img align="left" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/black/white"/>][blog]
 
 <br />
 <br />
@@ -68,15 +68,6 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[blog] : https://jukim2.github.io
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jukim2&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
