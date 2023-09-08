@@ -2,26 +2,25 @@
 
 # I'm Junseo
 
-- 🔭 I'm college student for now
-- 🌱 I’m interested in AR/VR
-- 🥅 2023 Goals: Making an AR project
+- 🏫 I'm college student for now
+- 🔥 I’m interested in AR/VR
+- 🌟 2023 Goals: Making an AR project
 
 ### My Blog:
 
-[![website](./img/globe-light.svg)](https://Jukim2.github.io)
+<!-- [![website](./img/globe-light.svg)](https://Jukim2.github.io) -->
+<img height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/black/white"/>
 
 ### Studied at:
-<!-- [![website](./img/snuLogo.svg)](https://Jukim2.github.io) -->
 <img width="32" style="padding-right:10px;" src="./img/snu_svg.png">
-<img height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/42/white#gh-dark-mode-only"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/42/black#gh-white-mode-only"/>
+<img height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/42/black/white"/>
 
 
 ### Languages and Tools:
 
 <img align="left" alt="C++" width="26px" src="https://cdn.simpleicons.org/cplusplus" style="padding-right:10px;" />
-<img align="left" alt="CSharp" width="26px" src="https://cdn.simpleicons.org/csharp/ffffff" style="padding-right:10px;" />
-<img align="left" alt="unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/unity.svg" style="padding-right:10px;" />
+<img align="left" alt="CSharp" width="26px" src="https://cdn.simpleicons.org/csharp/239120" style="padding-right:10px;" />
+<img align="left" alt="unity" width="26px" src="https://cdn.simpleicons.org/unity/black/white" style="padding-right:10px;" />
 
 <br />
 <br />
