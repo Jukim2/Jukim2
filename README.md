@@ -1,8 +1,5 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Jukim2&show_icons=true&include_all_commits=true&rank_icon=github&theme=outrun#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Jukim2&show_icons=true&include_all_commits=true&rank_icon=github&theme=flag-india#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-# I'm Junseo
+# I'm Junseo 😎
 
 - 🏫 I'm college student for now
 - 🔥 I’m interested in AR/VR
@@ -45,7 +42,7 @@
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://jukim2.github.io)
 
 ---
 
@@ -65,12 +62,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Jukim2&show_icons=true&include_all_commits=true&rank_icon=github&theme=outrun#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Jukim2&show_icons=true&include_all_commits=true&rank_icon=github&theme=flag-india#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jukim2&layout=donut&theme=outrun#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jukim2&layout=donut&theme=flag-india#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </details>
 
-[blog] : https://jukim2.github.io
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jukim2&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
