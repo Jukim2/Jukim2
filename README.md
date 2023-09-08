@@ -1,25 +1,75 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jukim2&fontSize=70) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jukim2&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
- 
+# I'm Junseo
 
-<img src = "https://github.com/Jukim2/Jukim2/assets/117924837/6e05f5d1-144b-4433-b28a-e4971390818b">
+- 🔭 I'm college student for now
+- 🌱 I’m interested in AR/VR
+- 🥅 2023 Goals: Making an AR project
+
+### My Blog:
+
+[![website](./img/globe-light.svg)](https://Jukim2.github.io)
+
+### Studied at:
+<!-- [![website](./img/snuLogo.svg)](https://Jukim2.github.io) -->
+<img width="32" style="padding-right:10px;" src="./img/snu_svg.png" class="image-border">
+<img height="32" width="32" src="https://cdn.simpleicons.org/42/white"/>
 
 
+### Languages and Tools:
 
-<div align="center">
+<img align="left" alt="C++" width="26px" src="https://cdn.simpleicons.org/cplusplus" style="padding-right:10px;" />
+<img align="left" alt="CSharp" width="26px" src="https://cdn.simpleicons.org/csharp/ffffff" style="padding-right:10px;" />
+<img align="left" alt="unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/unity.svg" style="padding-right:10px;" />
 
-🏫 Studied 🏫
+<br />
+<br />
 
-<img src="https://img.shields.io/badge/42Seoul-black?style=round-square&logo=42"> <img src='https://img.shields.io/badge/SNU-white?logo=data:image/png;base64,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'/>
+---
 
-💻 Stacks 💻
+### 📕 Latest Blog Posts
 
-<img src="https://img.shields.io/badge/C++-00599c?style=round-square&logo=cplusplus">
-<img src="https://img.shields.io/badge/Csharp-239120?style=round-square&logo=csharp">
-<img src="https://img.shields.io/badge/Unity-000000?style=round-square&logo=unity">
+<!-- BLOG-POST-LIST:START -->
+- [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
+- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
+- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+<!-- BLOG-POST-LIST:END -->
 
-☎ Contacts ☎
+➡️ [more blog posts...](https://codestackr.com)
 
-<img src="https://img.shields.io/badge/MagicCodingBox-000000?style=round-square&logo=blog">
-<!-- 
-![yourbadge](https://img.shields.io/badge/Racket-7.3-blue.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBB%0D%0AZG9iZSBJbGx1c3RyYXRvciAxNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9u%0D%0AOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBT%0D%0AVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzEx%0D%0ALmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9ImNpcmNsZV9waWVjZXMiIHhtbG5zPSJodHRw%0D%0AOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5%0D%0AOTkveGxpbmsiIHg9IjBweCINCgkgeT0iMHB4IiB3aWR0aD0iNTExLjg3NXB4IiBoZWlnaHQ9IjUx%0D%0AMS44MjRweCIgdmlld0JveD0iMCAwIDUxMS44NzUgNTExLjgyNCIgZW5hYmxlLWJhY2tncm91bmQ9%0D%0AIm5ldyAwIDAgNTExLjg3NSA1MTEuODI0Ig0KCSB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxjaXJj%0D%0AbGUgaWQ9ImNpcmNsZSIgZmlsbD0iI0ZGRkZGRiIgY3g9IjI1Ni4yNTIiIGN5PSIyNTUuOTg2IiBy%0D%0APSIyNTMuMDkzIi8+DQo8cGF0aCBpZD0iYmx1ZS1waWVjZSIgZmlsbD0iIzNFNUJBOSIgZD0iTTQ1%0D%0ANS4zOTgsNDEyLjE5N2MzMy43OTItNDMuMDIxLDUzLjk0Ni05Ny4yNjIsNTMuOTQ2LTE1Ni4yMTEN%0D%0ACgljMC0xMzkuNzc5LTExMy4zMTMtMjUzLjA5My0yNTMuMDkzLTI1My4wOTNjLTMwLjQwNiwwLTU5%0D%0ALjU1OCw1LjM2Ny04Ni41NjYsMTUuMTk3QzI3Mi40MzUsNzEuOTg5LDQwOC4zNDksMjQ3LjgzOSw0%0D%0ANTUuMzk4LDQxMi4xOTd6DQoJIi8+DQo8cGF0aCBpZD0ibGVmdC1yZWQtcGllY2UiIGZpbGw9IiM5%0D%0ARjFEMjAiIGQ9Ik0yMjAuMDAzLDE2NC4zMzdjLTM5LjQ4MS00Mi41MzMtODMuNjk1LTc2LjMxMi0x%0D%0AMzAuNTIzLTk4LjcxNQ0KCUMzNi41NzMsMTEyLjAxMSwzLjE1OSwxODAuMDkyLDMuMTU5LDI1NS45%0D%0AODZjMCw2My44MTQsMjMuNjI2LDEyMi4xMDQsNjIuNTk3LDE2Ni42MjMNCglDMTAwLjExMSwzMTku%0D%0AMzkyLDE2NC42OTcsMjE5LjkwNywyMjAuMDAzLDE2NC4zMzd6Ii8+DQo8cGF0aCBpZD0iYm90dG9t%0D%0ALXJlZC1waWVjZSIgZmlsbD0iIzlGMUQyMCIgZD0iTTI2Ni42MzgsMjIxLjcyN2MtNTQuNzkyLDU5%0D%0ALjA1MS0xMDkuMzkyLDE2Mi40MjItMTI5LjE1MiwyNTcuNzk0DQoJYzM1LjQxOSwxOC44NTcsNzUu%0D%0AODQsMjkuNTU5LDExOC43NjYsMjkuNTU5YzQ0LjEzMiwwLDg1LjYxOC0xMS4zMDYsMTIxLjc0LTMx%0D%0ALjE2M0MzNTcuMTcxLDM4MS43MTIsMzE3Ljg2OCwyOTMuNjA0LDI2Ni42MzgsMjIxLjcyNw0KCXoi%0D%0ALz4NCjwvc3ZnPg0K) -->
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🔒 Closed issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 🗣 Commented on [#1235](https://github.com/shadcn-ui/ui/issues/1235#issuecomment-1679215686) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+3. ❗ Opened issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. 🗣 Commented on [#35](https://github.com/GH-Event-Demos/random-name-picker/issues/35#issuecomment-1572138731) in [GH-Event-Demos/random-name-picker](https://github.com/GH-Event-Demos/random-name-picker)
+5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jukim2&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+
