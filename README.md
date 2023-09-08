@@ -11,14 +11,15 @@
 ### My Blog:
 
 <!-- [![website](./img/globe-light.svg)](https://Jukim2.github.io) -->
-[<img align="left" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/black/white"/>][blog]
+[<img align="left" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/black/white"/>](https://jukim2.github.io)
+
 
 <br />
 <br />
 
 ### Studied at:
-<img align="left" width="32" style="padding-right:10px;" src="./img/snu_svg.png">
-<img align="left" width="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/42/black/white"/>
+[<img align="left" width="32" style="padding-right:10px;" src="./img/snu_svg.png">](https://en.snu.ac.kr/)
+[<img align="left" width="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/42/black/white"/>](https://42.fr/en/homepage/)
 
 <br />
 <br />
@@ -70,4 +71,7 @@
 
 [blog] : https://jukim2.github.io
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jukim2&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
 
