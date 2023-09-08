@@ -9,12 +9,17 @@
 ### My Blog:
 
 <!-- [![website](./img/globe-light.svg)](https://Jukim2.github.io) -->
-<img height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/black/white"/>
+<img align="left" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/black/white"/>
+
+<br />
+<br />
 
 ### Studied at:
-<img width="32" style="padding-right:10px;" src="./img/snu_svg.png">
-<img width="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/42/black/white"/>
+<img align="left" width="32" style="padding-right:10px;" src="./img/snu_svg.png">
+<img align="left" width="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/42/black/white"/>
 
+<br />
+<br />
 
 ### Languages and Tools:
 
