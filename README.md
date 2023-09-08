@@ -35,6 +35,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Write In Blog](https://jukim2.github.io//posts/start/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jukim2.github.io)
