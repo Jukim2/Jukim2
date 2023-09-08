@@ -13,7 +13,7 @@
 
 ### Studied at:
 <img width="32" style="padding-right:10px;" src="./img/snu_svg.png">
-<img height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/42/black/white"/>
+<img width="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/42/black/white"/>
 
 
 ### Languages and Tools:
