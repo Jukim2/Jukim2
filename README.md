@@ -12,8 +12,9 @@
 
 ### Studied at:
 <!-- [![website](./img/snuLogo.svg)](https://Jukim2.github.io) -->
-<img width="32" style="padding-right:10px;" src="./img/snu_svg.png" class="image-border">
-<img height="32" width="32" src="https://cdn.simpleicons.org/42/white"/>
+<img width="32" style="padding-right:10px;" src="./img/snu_svg.png">
+<img height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/42/white#gh-dark-mode-only"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/42/black#gh-white-mode-only"/>
 
 
 ### Languages and Tools:
