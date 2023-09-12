@@ -35,6 +35,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do we need virtual keyword?](https://jukim2.github.io//posts/VirtualKeyword/)
 - [How To Write In Blog](https://jukim2.github.io//posts/start/)
 <!-- BLOG-POST-LIST:END -->
 
