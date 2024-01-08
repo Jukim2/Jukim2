@@ -2,8 +2,8 @@
 # I'm Junseo 😎
 
 - 🏫 I'm college student for now
-- 🔥 I’m interested in AR/VR
-- 🌟 2023 Goals: Making an AR project
+- 🔥 I’m interested in making game, AR/VR
+- 🌟 2024 Goals: Making a PVP game or AR service
 
 ### My Blog:
 
