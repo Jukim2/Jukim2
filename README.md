@@ -5,14 +5,6 @@
 - 🔥 I’m interested in making game, AR/VR
 - 🌟 2024 Goals: Making a PVP game or AR service
 
-### My Blog:
-
-<!-- [![website](./img/globe-light.svg)](https://Jukim2.github.io) -->
-[<img align="left" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/black/white"/>](https://jukim2.github.io)
-
-
-<br />
-<br />
 
 ### Studied at:
 [<img align="left" width="32" style="padding-right:10px;" src="./img/snu_svg.png">](https://en.snu.ac.kr/)
@@ -30,22 +22,6 @@
 <br />
 <br />
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Why do we need virtual keyword?](https://jukim2.github.io//posts/VirtualKeyword/)
-- [How To Write In Blog](https://jukim2.github.io//posts/start/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://jukim2.github.io)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
