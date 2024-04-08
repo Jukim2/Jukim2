@@ -22,6 +22,12 @@
 <br />
 <br />
 
+### Blog:
+[<img align="left" alt="github" width="26px" src="https://cdn.simpleicons.org/github/black/white" style="padding-right:10px;" />](https://jukim2.github.io)
+
+<br />
+<br />
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
