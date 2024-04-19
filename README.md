@@ -29,6 +29,7 @@
 <br />
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#13](https://github.com/SNU-ARC/2024_spring_sysprog_Lab3/issues/13) in [SNU-ARC/2024_spring_sysprog_Lab3](https://github.com/SNU-ARC/2024_spring_sysprog_Lab3)
 <!--END_SECTION:activity-->
 
 </details>
