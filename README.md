@@ -15,7 +15,6 @@
 ### Languages and Tools:
 
 <img align="left" alt="C++" width="26px" src="https://cdn.simpleicons.org/cplusplus" style="padding-right:10px;" />
-<img align="left" alt="CSharp" width="26px" src="https://cdn.simpleicons.org/csharp/239120" style="padding-right:10px;" />
 <img align="left" alt="unity" width="26px" src="https://cdn.simpleicons.org/unity/black/white" style="padding-right:10px;" />
 
 <br />
@@ -26,10 +25,6 @@
 
 <br />
 <br />
-
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/SNU-ARC/2024_spring_sysprog_Lab3/issues/13) in [SNU-ARC/2024_spring_sysprog_Lab3](https://github.com/SNU-ARC/2024_spring_sysprog_Lab3)
-<!--END_SECTION:activity-->
 
 </details>
 
