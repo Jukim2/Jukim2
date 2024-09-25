@@ -1,8 +1,8 @@
 
-# I'm Junseo 😎
+# I'm Junseo
 
-- 🏫 I'm college student for now
-- 🔥 I’m interested in making game and services
+- I'm college student for now
+- I’m interested in making game and services
 
 
 ### Studied at:
@@ -15,6 +15,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="C++" width="26px" src="https://cdn.simpleicons.org/cplusplus" style="padding-right:10px;" />
+<img align="left" alt="unreal" width="26px" src="https://cdn.simpleicons.org/UnrealEngine/black/white" style="padding-right:10px;" />
 <img align="left" alt="unity" width="26px" src="https://cdn.simpleicons.org/unity/black/white" style="padding-right:10px;" />
 
 <br />
