@@ -1,9 +1,6 @@
 
 # I'm Junseo
 
-- I'm college student for now
-- I’m interested in making game and services
-
 
 ### Studied at:
 [<img align="left" width="32" style="padding-right:10px;" src="./img/snu_svg.png">](https://en.snu.ac.kr/)
