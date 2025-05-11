@@ -4,7 +4,7 @@
 
 ### Studied at:
 [<img align="left" width="32" style="padding-right:10px;" src="./img/snu_svg.png">](https://en.snu.ac.kr/)
-[<img align="left" width="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/42/black/white"/>](https://42.fr/en/homepage/)
+[<img align="left" width="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/42/black"/>](https://42.fr/en/homepage/)
 
 <br />
 <br />
@@ -13,7 +13,7 @@
 
 <img align="left" alt="C++" width="26px" src="https://cdn.simpleicons.org/cplusplus" style="padding-right:10px;" />
 <img align="left" alt="unreal" width="26px" src="https://cdn.simpleicons.org/UnrealEngine/black/white" style="padding-right:10px;" />
-<img align="left" alt="unity" width="26px" src="https://cdn.simpleicons.org/unity/black/white" style="padding-right:10px;" />
+<img align="left" alt="unity" width="26px" src="https://cdn.simpleicons.org/unity/black" style="padding-right:10px;" />
 
 <br />
 <br />
